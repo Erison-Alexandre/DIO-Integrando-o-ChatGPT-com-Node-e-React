@@ -1,4 +1,3 @@
-Claro, vou criar um exemplo de arquivo README.md para o repositório "DIO-Integrando-o-ChatGPT-com-Node-e-React" no GitHub, incluindo uma animação. Lembre-se de personalizar as seções conforme necessário:
 
 ```markdown
 # DIO-Integrando-o-ChatGPT-com-Node-e-React
